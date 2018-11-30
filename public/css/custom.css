@@ -1,0 +1,55 @@
+
+body{
+    color: black;
+}
+
+.navbar {
+     margin-bottom: 0px;
+
+}
+
+.navbar-form {
+    padding: 0px;
+}
+
+.nome{
+    font-size: 16px;
+    background-color: aquamarine;
+}
+
+.feed{
+    margin: 10px;
+    padding: 5px;
+    padding-top: 0px;
+    border-radius: 0px 20px 0px 0px;
+}
+
+.feed-body{
+    padding-top: 2px;
+}
+
+.nomelista{
+    font-size: 18px;
+}
+
+.verde{
+    background-color:green;
+}
+.giallo{
+    background-color: yellow;
+}
+.rosso{
+    background-color: orange;
+}
+
+.status{
+    border-radius: 12px;
+    width: 15px;
+    height: 15px;
+    float: left;
+    position: relative;
+    vertical-align: text-bottom;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 4px;
+ }
